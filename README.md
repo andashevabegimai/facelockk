@@ -34,6 +34,7 @@ How to run
 2. Add a secret named “HF_TOKEN” and paste your Hugging Face token.
 3. Add a secret named “GEMINI_API_KEY” and paste your Gemini API key.
 4. Turn on "Notebook access" for both secrets.
+5. And there are some pictures to test with in "assets" folder
 
 Dependencies
 Main libraries:
